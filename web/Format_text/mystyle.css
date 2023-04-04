@@ -1,0 +1,26 @@
+.colors{
+	background:rgba(120,100,50,0.6);
+	
+}
+.headline {
+text-transform: uppercase; 
+background: lightblue;
+}
+.secondline {
+	background:rgba(25,86,55,0.6);
+	color:lightblue;
+	font-style:italic;
+	padding:5px;
+}
+.formula{
+	font-weight: 600;
+	font-style: italic;
+	text-align: center;
+}
+.definition{
+	
+	margin: 10px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: rgba(100,149,237, 1.0);
+}

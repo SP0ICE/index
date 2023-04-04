@@ -1,0 +1,19 @@
+.background{
+	background: url(images/back.jpg);
+}
+.txtclr{
+	color: lightgrey;
+}
+.name{
+	font-style:italic;
+	font-weight:normal;
+	color: lightyellow;
+}
+.right{
+float: right;
+margin: 10px;
+}
+.left{
+float: left;
+margin: 10px;
+}
